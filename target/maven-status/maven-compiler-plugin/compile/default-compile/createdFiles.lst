@@ -1,0 +1,6 @@
+dataAccess\Dao.class
+data_objects\Friends.class
+data_objects\Chatlogs.class
+data_objects\Users.class
+dataAccess\Jpa_Runner.class
+example\jdbc\DataAccess.class
